@@ -1,0 +1,4 @@
+도메인
+client_id(api 카): 93ea393e-5662-41bf-79c6-52541148ded9
+client_secret: 6e81f079-cbc6-49d2-aedb-ec6ce590ad91
+

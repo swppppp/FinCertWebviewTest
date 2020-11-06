@@ -51,4 +51,10 @@ dependencies {
     api 'com.github.eastar-dev:EastarKtx:1.0.10'
     debugApi 'com.github.eastar-dev.EastarLog2:log:2.0.6'
     releaseApi 'com.github.eastar-dev.EastarLog2:logNoOp:2.0.6'
+
+    // jackson lib
+    implementation "com.fasterxml.jackson.core:jackson-core:2.9.10"
+    implementation "com.fasterxml.jackson.core:jackson-annotations:2.9.10"
+    implementation "com.fasterxml.jackson.core:jackson-databind:2.9.10"
+    implementation "com.fasterxml.jackson.module:jackson-module-kotlin:2.9.10"
 }
